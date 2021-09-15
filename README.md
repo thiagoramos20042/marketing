@@ -1,3 +1,6 @@
+![alt text](https://www.oficinadanet.com.br/imagens/post/2430/marketing.jpg)
+
+
 # As aplicações do Machine Learning no Marketing
 # O que é Machine Learning
 O aprendizado de máquina (em inglês, machine learning) é a capacidade dos computadores identificarem padrões entre um mar de dados e, a partir dessas informações, fazerem previsões com alta precisão. 
