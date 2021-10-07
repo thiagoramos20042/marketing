@@ -10,7 +10,7 @@ Os esforços de incluir o machine learning nas estratégias de marketing valem a
 # Descoberta de novas audiências: 
 Alcançar os usuários certos ficou ainda mais difícil em um ambiente online repleto de ofertas e informações. Com o machine learning, é possível classificar e analisar as fontes de audiência ao seu site ou serviço. Assim você poderá otimizar campanhas e exibir anúncios apenas para as pessoas com maior chance de comprar o seu serviço.
 # Desenvolvimento de criativos personalizados: 
-A relevância de um anúncio é primordial para a decisão de compra do consumidor, que busca uma experiência cada vez mais personalizada. O machine lerning torna uma estratégia de marketing digital mais eficaz ao combinar diferentes títulos e descrições de anúncio, criando assim um criativo exclusivo para o usuário. Ele também simplifica o processo de criação das campanhas e oferece resultados mais eficientes.
+A relevância de um anúncio é primordial para a decisão de compra do consumidor, que busca uma experiência cada vez mais personalizada. O machine learning torna uma estratégia de marketing digital mais eficaz ao combinar diferentes títulos e descrições de anúncio, criando assim um criativo exclusivo para o usuário. Ele também simplifica o processo de criação das campanhas e oferece resultados mais eficientes.
 # Otimização de lances em anúncios: 
 Os anúncios em buscadores funcionam no sistema de leilões de pesquisa. Ou seja, quem der o maior lance aparecerá em primeiro lugar nos resultados de pesquisa para uma determinada palavra-chave. Para fazer o lance perfeito, o marketing se utiliza do machine learning. Ele analisa milhões de dados para ajustar os lances em tempo real.
 # Mensuração dos resultados: 
