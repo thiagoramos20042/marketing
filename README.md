@@ -1,20 +1,39 @@
-![alt text](https://www.oficinadanet.com.br/imagens/post/2430/marketing.jpg)
+# Marketing | Regressão para previsão de vendas
 
+Experimentos de regressão para estudar a relação entre investimento em mídia e faturamento.
 
-# As aplicações do Machine Learning no Marketing
-# O que é Machine Learning
-O aprendizado de máquina (em inglês, machine learning) é a capacidade dos computadores identificarem padrões entre um mar de dados e, a partir dessas informações, fazerem previsões com alta precisão. 
+**Machine learning** · Notebook
 
-# Benefícios do machine learning no marketing
-Os esforços de incluir o machine learning nas estratégias de marketing valem a pena - e, no longo prazo, representam uma economia no orçamento. Conheça 4 benefícios do aprendizado de máquina, segundo o Think with Google:
-# Descoberta de novas audiências: 
-Alcançar os usuários certos ficou ainda mais difícil em um ambiente online repleto de ofertas e informações. Com o machine learning, é possível classificar e analisar as fontes de audiência ao seu site ou serviço. Assim você poderá otimizar campanhas e exibir anúncios apenas para as pessoas com maior chance de comprar o seu serviço.
-# Desenvolvimento de criativos personalizados: 
-A relevância de um anúncio é primordial para a decisão de compra do consumidor, que busca uma experiência cada vez mais personalizada. O machine learning torna uma estratégia de marketing digital mais eficaz ao combinar diferentes títulos e descrições de anúncio, criando assim um criativo exclusivo para o usuário. Ele também simplifica o processo de criação das campanhas e oferece resultados mais eficientes.
-# Otimização de lances em anúncios: 
-Os anúncios em buscadores funcionam no sistema de leilões de pesquisa. Ou seja, quem der o maior lance aparecerá em primeiro lugar nos resultados de pesquisa para uma determinada palavra-chave. Para fazer o lance perfeito, o marketing se utiliza do machine learning. Ele analisa milhões de dados para ajustar os lances em tempo real.
-# Mensuração dos resultados: 
-O machine learning analisa cliques em anúncios da rede de pesquisa para identificar qual foi o mais efetiva na tomada de decisão de compra do usuário. O algoritmo compara o percurso de cliques dos consumidores até a compra do produto ou serviço com o dos que não fecharam negócio. Assim ele identifica padrões e identifica quais são os pontos de contato mais vantajosos na jornada do cliente.
+[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
-# O objetivo do estudo
-Prever o faturamento de uma empresa de acordo com o investimento em mídias sociais, influenciadores, TV, rádio.
+## Objetivo
+
+Modelar relações entre canais de divulgação e vendas em um estudo de aprendizado supervisionado.
+
+## O que você encontra
+
+- Exploração das variáveis de investimento em mídia.
+- Experimentos de regressão linear simples e múltipla.
+- Divisão de treino/teste e avaliação das previsões.
+
+## Tecnologias
+
+Python · pandas · NumPy · seaborn · Matplotlib · scikit-learn
+
+## Arquivos principais
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [Marketing_regressão_linear.ipynb](Marketing_regress%C3%A3o_linear.ipynb) | Exploração, engenharia de atributos e regressão. |
+
+## Como explorar
+
+Abra [Marketing_regressão_linear.ipynb](Marketing_regress%C3%A3o_linear.ipynb) no visualizador do GitHub para acompanhar o código e as saídas salvas. Para explorar as células, use Jupyter ou a extensão de notebooks do VS Code. Antes de executar, confira os caminhos de entrada, as fontes externas e os imports nas primeiras células.
+
+## Contexto do projeto
+
+O notebook estuda associações nos dados. As previsões do exercício não constituem uma medição de retorno causal de campanhas.
+
+---
+
+Integra o [portfólio de Thiago Oliveira](https://github.com/thiagoramos20042).
